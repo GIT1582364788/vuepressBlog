@@ -10,5 +10,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "vuepress": "^0.14.4"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.9.7",
+    "stylus": "^0.56.0",
+    "stylus-loader": "^6.2.0"
+  }
 }
