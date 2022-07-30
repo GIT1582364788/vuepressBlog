@@ -5,7 +5,7 @@ Git是目前最流行和最先进的分布式版本控制系统。
 cvs和SVN（用的最多）是集中式的版本控制系统，速度慢，必须要联网使用。
 
 ## Git安装
-官网地址：[https://git-scm.com/]
+官网地址：[https://git-scm.com/](https://git-scm.com/)
 <img src="./images/1.png">
 <img src="./images/2.png">
 下载自己需要的系统版本，安装之后在桌面点击鼠标右键就能看到下图所示：
@@ -118,8 +118,8 @@ git branch -d one
 直接切换到现有的分支使用 git switch master
 创建并且切换到新的分支使用 git switch -c two
 ### SourceTree
-官网地址：[https://www.sourcetreeapp.com/]
+官网地址：[https://www.sourcetreeapp.com/](https://www.sourcetreeapp.com/)
 SourceTree是一款免费的Git图形化管理工具，可以操作任何Git库，对于不喜欢使用git命令进行操作的，学习SourceTree是相当有必要的。
 ### Gitte
-官网地址：[https://gitee.com/]
+官网地址：[https://gitee.com/](https://gitee.com/)
 Gitee是一个提供免费的Git仓库,又称码云。

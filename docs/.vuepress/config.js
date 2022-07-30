@@ -37,7 +37,7 @@ module.exports = {
           }]
         },
         {
-          text:'前端代码管理工具',
+          text:'代码管理工具',
           items:[{
             text:'Git',
             link:'/Frontutils/Git'
