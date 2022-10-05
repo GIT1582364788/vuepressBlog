@@ -25,8 +25,8 @@ module.exports = {
         {
           text: 'Node.js',
           items:[{
-              text:'黑马课程笔记',
-              link:'/Node/黑马课程笔记'
+            text:'黑马课程笔记',
+            link:'/Node/黑马课程笔记'
           }]
         }, 
         {
