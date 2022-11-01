@@ -34,6 +34,9 @@ module.exports = {
           items:[{
             text:'千古壹号',
             link:'/FrontStudy/千古壹号'
+          },{
+            text:'poetry',
+            link:'/FrontStudy/poetry'
           }]
         },
         {
@@ -70,7 +73,8 @@ module.exports = {
             '黑马课程笔记'
           ],
           '/FrontStudy/':[
-            '千古壹号'
+            '千古壹号',
+            'poetry'
           ],
           '/OtherLearning/':[
             '',
