@@ -9,28 +9,22 @@ module.exports = {
       logo:'/images/logo.png',
       nav:[ // 导航栏配置
         {
-          text: '前端基础',
+          text: '前端学习',
           items:[{
-              text:'Html',
-              link:'/Frontend/html'
-          },{
-              text:'CSS',
-              link:'/Frontend/css'
-          },{
-              text:'JavaScript',
-              link:'/Frontend/JavaScript'
+              text:'金渡课程',
+              link:'/Frontend/金渡教育'
           }] 
         
         },
         {
           text: 'Node.js',
           items:[{
-            text:'黑马课程笔记',
+            text:'黑马课程',
             link:'/Node/黑马课程笔记'
           }]
         }, 
         {
-          text:'前端学习资源',
+          text:'前端外部资源',
           items:[{
             text:'千古壹号',
             link:'/FrontStudy/千古壹号'
@@ -64,9 +58,7 @@ module.exports = {
       sidebar: {
           '/Frontend/':[
             '',
-            'html',
-            'css',
-            'JavaScript'
+            '金渡教育',
           ],
           '/Node/':[
             '',
