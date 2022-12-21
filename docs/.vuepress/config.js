@@ -11,8 +11,11 @@ module.exports = {
         {
           text: '前端学习',
           items:[{
+            text:'知识点巩固',
+            link:'/Frontend/知识点巩固'
+          },{
               text:'金渡课程',
-              link:'/Frontend/金渡教育'
+              link:'/Frontend/金渡课程'
           }] 
         
         },
@@ -20,7 +23,7 @@ module.exports = {
           text: 'Node.js',
           items:[{
             text:'黑马课程',
-            link:'/Node/黑马课程笔记'
+            link:'/Node/黑马课程'
           }]
         }, 
         {
@@ -58,11 +61,12 @@ module.exports = {
       sidebar: {
           '/Frontend/':[
             '',
-            '金渡教育',
+            '知识点巩固',
+            '金渡课程',
           ],
           '/Node/':[
             '',
-            '黑马课程笔记'
+            '黑马课程'
           ],
           '/FrontStudy/':[
             '千古壹号',
