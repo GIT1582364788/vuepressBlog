@@ -16,6 +16,9 @@ module.exports = {
           },{
               text:'金渡课程',
               link:'/Frontend/金渡课程'
+          },{
+            text:'黑马课程',
+            link:'/Frontend/黑马课程'
           }] 
         
         },
@@ -63,6 +66,7 @@ module.exports = {
             '',
             '知识点巩固',
             '金渡课程',
+            '黑马课程',
           ],
           '/Node/':[
             '',
